@@ -283,7 +283,7 @@ async def stop(_, message: Message):
 
 @Client.on_message(commandpro([".song", "sng", ".sng", ".msc", "msc"]) & SUDOERS)
 async def song(client, message):
-    cap = "**🥀 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 ː [𝐌𝐫᭄'𝐊𝐚𝐚𝐋-𝐱𝐃](https://t.me/iamkaal)**"
+    cap = "**🥀 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 ː [𝚃𝚙 𝙴𝚍𝚒𝚝𝚣](https://t.me/Tp_Editz)**"
     rkp = await message.reply("**🔄 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 ...**")
 
     if len(message.command) < 2:
