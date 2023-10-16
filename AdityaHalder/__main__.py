@@ -118,9 +118,9 @@ async def start(_, message):
 Pʀᴇᴍɪᴜᴍ Tᴇʟᴇɢʀᴀᴍ Usᴇʀ Bᴏᴛ.
 
 ┏━━━━━━━━━━━━━━━━━━━┓
-┣★ Oᴡɴᴇʀ'xD› : [ᴛᴘ ᴇᴅɪᴛᴢ](https://t.me/Tp_Editz)
-┣★ Uᴘᴅᴀᴛᴇs ›› : [ ɪᴅsᴘ ʙᴏʏs](https://t.me/Idsp_bots)
-┣★ Sᴜᴘᴘᴏʀᴛ » : [ɢʀᴏᴜᴘ Dɪsᴄᴜs](https://t.me/Bots_talkk)
+┣★ Oᴡɴᴇʀ'xD› : [Tp Editz](https://t.me/Tp_Editz)
+┣★ Uᴘᴅᴀᴛᴇs ›› : [Idsp Bots](https://t.me/Idsp_bots)
+┣★ Sᴜᴘᴘᴏʀᴛ » : [Discuss Group](https://t.me/Bots_talkk)
 ┗━━━━━━━━━━━━━━━━━━━┛
 
 💞 Cʟɪᴄᴋ Oɴ Dᴇᴘʟᴏʏ Bᴜᴛᴛᴏɴ Tᴏ Mᴀᴋᴇ
